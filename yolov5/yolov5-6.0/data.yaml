@@ -1,0 +1,6 @@
+
+train: E:/repository/yolov5/yolov5-6.0/images/train
+val: E:/repository/yolov5/yolov5-6.0/images/val
+test: E:/repository/yolov5/yolov5-6.0/car_data/test_images
+nc: 1
+names: ['car']
